@@ -1,0 +1,19 @@
+.btn-blue {
+  background-color: black;
+  color: white;
+  padding: 15px 25px;
+  border-radius: 20px;
+  opacity: 0.6;
+}
+
+.button {
+object-position: center;
+
+}
+.btn-blue:hover {
+  opacity: 1;
+}
+.btn-blue:position {
+  justify-content: center;
+}
+
