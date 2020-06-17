@@ -1,0 +1,19 @@
+.text 
+{
+text-align: center
+
+}	
+.text h2 
+{
+    font-weight: normal;
+  font-size: 20px;
+ color: black;
+ margin-top: 40px;
+}	
+.text h1
+{
+    font-weight: normal;
+  font-size: 25px;
+ color: grey;
+ margin-top: 60px;
+}
